@@ -1,3 +1,4 @@
+# Password Generator 
 
 Live URL: https://mliemann.github.io/UNCC-Bootcamp-Homework3/
 
@@ -8,7 +9,7 @@ Live URL: https://mliemann.github.io/UNCC-Bootcamp-Homework3/
 
 
 
-Checked for requirements: 
+## What it does: 
 
 
 GIVEN I need a new, secure password
@@ -28,3 +29,15 @@ GIVEN I need a new, secure password
 //THEN the password is either displayed in an alert or written to the page
 
 Tested code to ensure it was working & generating a password with no issues. Ensured it was live with no issues and application had no errors on inspect tools. 
+
+## Technologies Used
+* JavaScript
+* CSS 
+* HTML
+  
+## Author
+* Marlon Liemann mliemann@live.com
+
+## Licenses
+* MIT
+    
